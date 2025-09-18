@@ -1,2 +1,3 @@
 Name: Simon Bose
 Student number: 300363330
+Class: SEG2105
